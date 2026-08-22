@@ -32,7 +32,7 @@ More accurate short-term forecasts can support decisions such as:
 - preparing for periods of unusually high electricity demand
 - improving generation and operational planning
 - identifying when forecast uncertainty is greatest
-- reducing the risk of over- or under-preparing for expected demand
+- reducing the risk of over or under preparing for expected demand
 
 The model reduced MAE by approximately 40% compared with a simple persistence forecast, showing that combining recent demand with weather and time-based information provided useful predictive information beyond assuming demand would remain near its most recent level.
 
