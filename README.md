@@ -39,7 +39,7 @@ The model reduced MAE by approximately 40% compared with a simple persistence fo
 
 ## Dashboard
 
-An interactive Tableau dashboard summarises forecast performance, actual vs predicted demand and how forecast error changes throughout the day.
+An interactive Tableau dashboard summarises forecast performance, actual vs predicted demand and how forecast error changes throughout the day:
 
 **Tableau Public:** [View dashboard](https://public.tableau.com/app/profile/mani.jabbari/viz/VictorianElectricityDemandDriversShort-TermForecasting/Dashboard1)
 
