@@ -20,22 +20,12 @@ During the highest 5% of demand observations, MAE was 120.5 MW compared with 209
 
 Peak observed demand during the test period was approximately **8,075 MW**.
 
-
-## Why this matters
-
-Electricity demand changes significantly throughout the day and can rise sharply during periods of high usage. Being able to anticipate these changes helps electricity system operators and energy businesses plan for how much electricity will be required in the near term.
-
-In this project, historical demand, weather and calendar patterns were used to predict short-term electricity demand. The model was trained on earlier observations and evaluated on an unseen December 2025 holdout period, simulating how a forecasting model would perform on future demand.
-
 More accurate short-term forecasts can support decisions such as:
 
 - preparing for periods of unusually high electricity demand
 - improving generation and operational planning
 - identifying when forecast uncertainty is greatest
 - reducing the risk of over or under preparing for expected demand
-
-The model reduced MAE by approximately 40% compared with a simple persistence forecast, showing that combining recent demand with weather and time-based information provided useful predictive information beyond assuming demand would remain near its most recent level.
-
 
 ## Dashboard
 
